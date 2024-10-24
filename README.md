@@ -21,14 +21,15 @@ The data for this project was collected manually from a rugby team. Each node in
 
 ## Files in this Repository
 
-- `data/`: Contains the raw data of the rugby team’s player network.
-- `scripts/`: Python or R scripts used for data analysis and visualization.
-- `notebooks/`: Jupyter notebooks with detailed explanations of the analyses.
-- `results/`: Output files, including graphs and visualizations from the study.
+- graph_project_rugby.xls: Contains the raw data of the rugby team’s player network.
+- graph_project_rugby.r: R script used for data analysis and visualization.
+- graph_project_rugby.pdf: Discussion, including graphs and visualizations from the study.
 
-## How to Run the Project
+## Packages used
+tidyverse/igraph/RColorBrewer/ggplot2/GGally/cluster/readxl
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/rugby-team-network-analysis.git
+
+## Results
+Homophily Findings: Summarizes whether competition relationships are more frequent between similar players.
+Network Influence: Key insights into which players have the most influence in terms of information propagation.
 
