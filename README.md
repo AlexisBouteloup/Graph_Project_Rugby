@@ -30,8 +30,8 @@ tidyverse/igraph/RColorBrewer/ggplot2/GGally/cluster/readxl
 
 
 ## Results
-- **Homophily Findings: Summarizes whether competition relationships are more frequent between similar players.
-- **Network Influence: Key insights into which players have the most influence in terms of information propagation.
+- **Homophily Findings**: Summarizes whether competition relationships are more frequent between similar players.
+- **Network Influence**: Key insights into which players have the most influence in terms of information propagation.
 
 
 ## Author
