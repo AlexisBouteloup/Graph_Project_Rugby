@@ -21,7 +21,7 @@ The data for this project was collected manually from a rugby team. Each node in
 
 ## Files in this Repository
 
-- graph_project_rugby.xls: Contains the raw data of the rugby team’s player network.
+- graph_project_rugby.xlsx: Contains the raw data of the rugby team’s player network.
 - graph_project_rugby.r: R script used for data analysis and visualization.
 - graph_project_rugby.pdf: Discussion, including graphs and visualizations from the study.
 
@@ -33,3 +33,6 @@ tidyverse/igraph/RColorBrewer/ggplot2/GGally/cluster/readxl
 Homophily Findings: Summarizes whether competition relationships are more frequent between similar players.
 Network Influence: Key insights into which players have the most influence in terms of information propagation.
 
+
+## Author
+Bouteloup Alexis & Arpaliangeas Jade
