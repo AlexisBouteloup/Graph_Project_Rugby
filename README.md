@@ -26,8 +26,12 @@ The data for this project was collected manually from a rugby team. Each node in
 - graph_project_rugby.pdf: Discussion, including graphs and visualizations from the study.
 
 ## Packages used
-tidyverse/igraph/RColorBrewer/ggplot2/GGally/cluster/readxl
 
+- `tidyverse`
+- `igraph`
+- `RColorBrewer`
+- `GGally`
+- `cluster`
 
 ## Results
 - **Homophily Findings**: Summarizes whether competition relationships are more frequent between similar players.
